@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="sign_in_out_color" name="sign in and sign out color change" inherit_id="web.assets_common">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/sign_in_out_color/static/src/css/font-awesome.css"/>
+        </xpath>
+    </template>
+</odoo>

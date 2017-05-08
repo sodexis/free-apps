@@ -1,0 +1,17 @@
+.fa-sign-out:before {
+    color: #0CFF04;
+}
+
+.fa-sign-in:before {
+    color: #FF0F00;
+}
+
+.fa-sign-in {
+    font-size: 17px;
+    vertical-align: -10%;
+}
+
+.fa-sign-out {
+    font-size: 17px;
+    vertical-align: -10%;
+}
