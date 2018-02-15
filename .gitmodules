@@ -1,0 +1,4 @@
+[submodule "SodexisTeam/web"]
+	path = SodexisTeam/web
+	url = git@github.com:SodexisTeam/web.git
+	branch = 10.0
