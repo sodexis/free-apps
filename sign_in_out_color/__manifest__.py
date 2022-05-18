@@ -19,5 +19,6 @@
     'data': [
         'views/sign_in_out_view.xml'
     ],
+    'images': ['images/main_screenshot.png'],
     'installable': True,
 }
